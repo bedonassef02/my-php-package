@@ -1,0 +1,15 @@
+{
+    "name": "bedo/my-php-package",
+    "autoload": {
+        "psr-4": {
+            "MyPhpPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bedo",
+            "email": "bedonassef71@gmail.com"
+        }
+    ],
+    "require": {}
+}
